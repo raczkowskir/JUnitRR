@@ -1,13 +1,14 @@
 package RR.JUnitRR;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        Class1 c1 = new Class1("Rafał");
+        Class2 c2 = new Class2(28);
+        
+        Fasada f = new Fasada(c1, c2);
+    	
+    	
     }
 }
