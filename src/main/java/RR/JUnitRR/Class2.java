@@ -2,7 +2,7 @@ package RR.JUnitRR;
 
 public class Class2 {
 
-	Class2(int age) {
+	public Class2(int age) {
 		this.age = age;
 	}
 
