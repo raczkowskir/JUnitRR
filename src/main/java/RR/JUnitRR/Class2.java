@@ -1,5 +1,7 @@
 package RR.JUnitRR;
 
+
+
 public class Class2 {
 
 	public Class2(int age) {
@@ -13,4 +15,6 @@ public class Class2 {
 		return this.age;
 	}
 
+
+	
 }
